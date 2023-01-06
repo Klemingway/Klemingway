@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Klemingway
 - 👀 I’m interested in creating web pages.
-- 🌱 I’m currently learning javascript, sql and javascript.
+- 🌱 I’m currently learning javascript and sql.
 - 💞️ I’m looking to collaborate on making web pages.
 - 📫 How to reach me mularczykmarcin2@gmail.com
 
